@@ -1,1 +1,1 @@
-# PicCDN
+# Picgo + GitHub + jsDelivr
